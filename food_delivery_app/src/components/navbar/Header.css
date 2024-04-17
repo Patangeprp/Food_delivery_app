@@ -1,0 +1,75 @@
+.logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+}
+.navbar{
+    background-color: black;
+}
+a{
+    color: white;
+    padding: 10px;
+    margin-left: 50px;
+    transition: border-bottom 0.3s ease; /* Add transition property */
+    width: 100px;
+}
+a:hover{
+    border-bottom: 1px solid white;
+    color: white;
+}
+h1{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: white;
+    margin: 10px;
+}
+.navbar-toggler{
+    background-color: aqua;
+}
+.navbar-nav{
+    margin-left: 10vw;
+}
+.fa-magnifying-glass{
+    color: white;
+    font-size: large;
+}
+.btn:hover{
+    background-color: white;
+}
+.fa-magnifying-glass:hover{
+    color: black;
+}
+.btn{
+    height: 40px;
+}
+.form-control{
+    margin-left: 5vw;
+    width: 20vw;
+}
+.cart{
+    background-color: white;
+    border-radius: 5px;
+}
+.fa-cart-shopping{
+    font-size: x-large;
+    margin-top: 8px;
+    cursor: pointer;
+    color: black;
+}
+.count{
+    background-color: red;
+    height: 15px;
+    width: 15px;
+    position: relative;
+    top: -30px;
+    left: 80px;
+    border-radius: 100%;
+    z-index: 10;
+    display: none;
+}
+.searchBar{
+    display: flex;
+}
+
+  
+
+
