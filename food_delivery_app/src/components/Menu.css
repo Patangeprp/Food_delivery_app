@@ -1,0 +1,35 @@
+header{
+    height: 40vh;
+    width: 100%;
+    background-image: url(../assets/food1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(173, 154, 154, 0.422);
+    font-family: 'bereville';
+}
+.main1{
+    background-color: rgba(173, 154, 154, 0.422);
+    height: 40vh;
+}
+header h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+header p{
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 20vw;
+    color: orange;
+}
+header button{
+    border-radius: 5px;
+    height: 5vh;
+    border: none;
+    /* background-color: rgba(180, 159, 159, 0.411); */
+    background-color: rgba(151, 134, 104, 0.711);
+    font-weight: bold;
+    /* border: 1px solid; */
+    /* color: white; */
+    margin-right: 23vw;
+}
