@@ -13,6 +13,11 @@ function Menu(){
                 <a><button>Check out menu</button></a>
                 </div>
             </header>
+            <h1 className="menuOrder">ORDER ONLINE ORDER ONLINE ORDER ONLINE</h1>
+            <h1 className="menuOrder1">Your Favorite Food</h1>
+            <div className="main2">
+
+            </div>
         </div>
 
         </>  
