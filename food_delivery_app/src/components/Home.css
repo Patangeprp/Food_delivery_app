@@ -22,12 +22,16 @@
 .heading{
     font-size: 90px;
     margin-bottom: 40px;
+    text-shadow: 5px 10px  rgb(144, 131, 131);
+    
 }
 .aside1{
     width: 40vw;  
 }
 .door{
     color: orange;
+    text-shadow: 5px 10px  rgb(144, 131, 131);
+
 }
 .heading{
     font-family: Luminari, fantasy;

@@ -12,7 +12,7 @@ function Home(){
         <div className='main'>
         <div className='container'>
             <div className='aside1'>
-                <h1 className='heading'>The fastest food delivery at your <span className='door'>door step</span></h1>
+                <h1 className='heading'>The Fastest Food Delivery At Your <span className='door'>Door Step</span></h1>
                 <p className='discription'>Welcome to <span className='logo1'>Instafood</span>, your ultimate destination for convenient and delicious food delivery right to your doorstep!</p>
                 <button className='order'>Order Now</button>
                 <div style={{display:'flex'}}>
